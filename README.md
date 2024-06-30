@@ -4,7 +4,7 @@ Welcome to the Pygame Arcade! 🐍🎮 This repository is a collection of experi
 
 ## 👾 Projects
 
-1. **Game of Life**
+1. [**Game of Life**](GameOfLife)
 
    - An implementation of Conway's Game of Life, a cellular automaton where cells evolve based on simple rules.
    - Controls:
@@ -12,7 +12,7 @@ Welcome to the Pygame Arcade! 🐍🎮 This repository is a collection of experi
      - `Backspace`: Clear the canvas, removing all active cells.
      - `Left-click with mouse`: Draw active cells. If the simulation is running, it will pause when you click on the canvas.
 
-2. **2048** - WIP
+2. [**2048**](2048) - WIP
 
    - A recreation of the popular sliding tile puzzle game 2048. Combine numbers to reach the 2048 tile.
    - Controls:
